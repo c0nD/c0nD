@@ -5,7 +5,7 @@
 What to expect from my GitHub:
 - Projects that solve a unique problem!
 - Videogames that I like to spend free time working on.
-- Dev work for https://www.OnionCult.com
+- Lead Developer for https://www.OnionCult.com
 - (Hopefully soon!) Machine learning / AI projects!
 
 <!---
