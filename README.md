@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0nD / Colin
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java, Python, Web Dev, and C!
+- 🌱 I’m currently learning Java, Python, Web Dev, Rust, and C/C++!
 
 What to expect from my GitHub:
 - Projects that solve a unique problem!
