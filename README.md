@@ -5,7 +5,7 @@
 What to expect from my GitHub:
 - Projects that solve a unique problem!
 - Videogames that I like to spend free time working on.
-- Lead Developer for https://www.fluffbot.xyz
+- Lead Developer for https://www.fluffybot.xyz
 - Machine learning / AI projects!
 - Networking Applications
 
