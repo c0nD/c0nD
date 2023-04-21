@@ -5,8 +5,9 @@
 What to expect from my GitHub:
 - Projects that solve a unique problem!
 - Videogames that I like to spend free time working on.
-- Ex-Lead Developer for https://www.OnionCult.com
+- Lead Developer for https://www.fluffbot.xyz
 - Machine learning / AI projects!
+- Networking Applications
 
 <!---
 c0nD/c0nD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
