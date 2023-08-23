@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c0nD / Colin
+- 👋 Hi, I’m @c0nD / Colin Tiller
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java, Python, Web Dev, Rust, and C/C++!
 
