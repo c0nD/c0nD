@@ -1,6 +1,8 @@
+**Looking for SWE jobs!**
+
 - 👋 Hi, I’m @c0nD / Colin Tiller
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java, Python, Web Dev, Rust, and C/C++!
+- 🌱 I’m currently learning Java, Python, Web Dev, Rust, and C/C++! (Currently interview prepping learning DSA!)
 
 What to expect from my GitHub:
 - Projects that solve a unique problem!
