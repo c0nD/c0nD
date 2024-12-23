@@ -7,5 +7,3 @@
 - **FluffyBOT + CreampuffBOT Development**: Spearheaded the development of 2x sought-after bots for Cookie Run Kingdom. 🤖
 - **Open Source Contributions**: Collaborating to and managing open-source projects! 🧠
 
-📬 For collaborations or inquiries, reach out to me at [colintiller21@gmail.com](mailto:colintiller21@gmail.com).
-
