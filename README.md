@@ -1,7 +1,12 @@
+hello :octocat:
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=c0nD.c0nD)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-```python
 class DataScientist:
 
     def __init__(self):
