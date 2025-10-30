@@ -1,9 +1,20 @@
-# Welcome to My GitHub Profile! 👨‍💻
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-### Highlights of My GitHub 🌟:
+```python
+class DataScientist:
 
-- **Coursework**: From my undergrad capstone and other projects, to graduate coursework. 📖
-- **Machine Learning & AI**: During my undergrad and now graduate studies, I have a concentrated interest in machine learning. 🖥️
-- **FluffyBOT + CreampuffBOT Development**: Spearheaded the development of 2x sought-after bots for Cookie Run Kingdom. 🤖
-- **Open Source Contributions**: Collaborating to and managing open-source projects! 🧠
+    def __init__(self):
+        self.role = "Data Scientist & Software Engineer"
+        self.education = "BS in Computer Science + Data Science Certificate"
+        self.daily_languages = ["Python", "TypeScript", "Rust", "Vim"]
+        self.learning = ["Haskell"]
+        self.interests = ["Open source", "Machine learning", "Functional programming"]
+        self.hobbies = ["Guitar", "Keyboards"]
 
+    def say_hi(self):
+        print("Thanks for stopping by! Check out https://github.com/tidalcycles/Tidal if you like Haskell + music :)")
+
+me = DataScientist()
+me.say_hi()
+```
